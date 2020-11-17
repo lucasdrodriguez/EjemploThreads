@@ -1,0 +1,10 @@
+C:\Users\Isma\source\repos\banco\banco\bin\Debug\banco.exe.config
+C:\Users\Isma\source\repos\banco\banco\bin\Debug\banco.exe
+C:\Users\Isma\source\repos\banco\banco\bin\Debug\banco.pdb
+C:\Users\Isma\source\repos\banco\banco\obj\Debug\banco.csprojAssemblyReference.cache
+C:\Users\Isma\source\repos\banco\banco\obj\Debug\banco.Form1.resources
+C:\Users\Isma\source\repos\banco\banco\obj\Debug\banco.Properties.Resources.resources
+C:\Users\Isma\source\repos\banco\banco\obj\Debug\banco.csproj.GenerateResource.cache
+C:\Users\Isma\source\repos\banco\banco\obj\Debug\banco.csproj.CoreCompileInputs.cache
+C:\Users\Isma\source\repos\banco\banco\obj\Debug\banco.exe
+C:\Users\Isma\source\repos\banco\banco\obj\Debug\banco.pdb
